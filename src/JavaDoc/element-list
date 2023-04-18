@@ -1,0 +1,7 @@
+app.controller
+app.domain.model
+app.domain.shared
+app.domain.store
+app.ui
+app.ui.console
+app.ui.console.utils
